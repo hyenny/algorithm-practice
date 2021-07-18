@@ -15,3 +15,4 @@
 
 ## 배열
 - 두 개의 합(Two Sum)
+- 일일온도(Daily Temperature)
