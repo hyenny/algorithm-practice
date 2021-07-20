@@ -18,3 +18,6 @@
 - 일일온도(Daily Temperature)
 - 서브어레이 최대값(Maximum Subarray)
 - 빗물 담기(Trapping Rain Water)
+
+## 2개의 포인터
+- 단어중복 없는 가장 긴 문자열(Longest Substring Without Repeating Characters)
