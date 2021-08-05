@@ -34,3 +34,7 @@
 - 유효한 괄호(Valid Parentheses)
 - 이진트리 레벨 순서 순회(BinaryTree Level Order)
 - 기능개발(Feature Development)
+
+## 그래프(DFS, BFS)
+- 섬의 수(Number of Island)
+- 이진트리의 최대 깊이(Maximum Depth of BinaryTree)
