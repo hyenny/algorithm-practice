@@ -1,4 +1,4 @@
-package com.algorithm.search;
+package com.algorithm.sortandsearch;
 
 public class MoveZeros {
     public static void main(String[] args) {

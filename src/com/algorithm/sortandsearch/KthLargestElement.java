@@ -1,4 +1,4 @@
-package com.algorithm.search;
+package com.algorithm.sortandsearch;
 
 import java.util.Arrays;
 import java.util.PriorityQueue;
