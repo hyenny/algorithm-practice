@@ -13,6 +13,7 @@
 - 원점에서 가장 가까운 지점(K Closet Points to Origin)
 - 미팅룸(Meeting Room)
 - 많이 나오는 요소 Top K(Top K Frequent Elements)
+- 가장 긴 연속 시퀀스(Longest Consecutive Sequence)
 
 ## 배열
 - 두 개의 합(Two Sum)
